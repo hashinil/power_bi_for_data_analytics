@@ -7,6 +7,6 @@
 
 ## 2. Power BI Dashboards  
 
-- **data_proffetional_dashboard**: [Dashboard 2](https://github.com/hashinil/data_proffetional_dashboard)
+- **Data Professional Dashboard**: [Dashboard 2](https://github.com/hashinil/data_proffetional_dashboard)
   
-- **safety_awareness_dashborad**: [Dashboard 1](https://github.com/hashinil/safety_awareness_dashborad)
+- **Safety Awareness Dashborad**: [Dashboard 1](https://github.com/hashinil/safety_awareness_dashborad)
